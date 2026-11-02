@@ -1,0 +1,72 @@
+[
+  {
+    "model": "audit.auditetape",
+    "pk": 1,
+    "fields": {
+      "nom": "Audit de cadrage de produit",
+      "categorie": "client",
+      "statut": "valide",
+      "description": "Valider le positionnement DjimPharma en tant qu'application client et non outil interne de pharmacie.",
+      "ordre": 1,
+      "details": {"responsable": "Produit", "objectif": "Confirmer le périmètre"},
+      "date_creation": "2026-09-16T00:00:00Z",
+      "date_modification": "2026-09-16T00:00:00Z"
+    }
+  },
+  {
+    "model": "audit.auditetape",
+    "pk": 2,
+    "fields": {
+      "nom": "Accès technique AS PHARM",
+      "categorie": "as_pharm",
+      "statut": "en_cours",
+      "description": "Négocier l'accès technique à la lecture des stocks et à l'écriture des commandes.",
+      "ordre": 2,
+      "details": {"source": "Partenaire", "priority": "haute"},
+      "date_creation": "2026-09-16T00:00:00Z",
+      "date_modification": "2026-09-16T00:00:00Z"
+    }
+  },
+  {
+    "model": "audit.auditetape",
+    "pk": 3,
+    "fields": {
+      "nom": "Accès Clinicaa urgence",
+      "categorie": "clinicaa",
+      "statut": "a_faire",
+      "description": "Limiter l'intégration à la réservation d'urgence, sans partage de dossiers médicaux.",
+      "ordre": 3,
+      "details": {"source": "Partenaire", "scope": "alerte_urgence"},
+      "date_creation": "2026-09-16T00:00:00Z",
+      "date_modification": "2026-09-16T00:00:00Z"
+    }
+  },
+  {
+    "model": "audit.auditetape",
+    "pk": 4,
+    "fields": {
+      "nom": "Sécurité et confidentialité",
+      "categorie": "securite",
+      "statut": "a_faire",
+      "description": "Mettre en place les règles de sécurité, chiffrement, traçabilité et consentement du patient.",
+      "ordre": 4,
+      "details": {"objectif": "Conformité"},
+      "date_creation": "2026-09-16T00:00:00Z",
+      "date_modification": "2026-09-16T00:00:00Z"
+    }
+  },
+  {
+    "model": "audit.auditetape",
+    "pk": 5,
+    "fields": {
+      "nom": "Pilotage opérationnel",
+      "categorie": "operationnel",
+      "statut": "a_faire",
+      "description": "Définir les livraisons, la gestion des pharmacies de garde et les alertes de disponibilité.",
+      "ordre": 5,
+      "details": {"zone": "Lomé, Atakpamé, Kara"},
+      "date_creation": "2026-09-16T00:00:00Z",
+      "date_modification": "2026-09-16T00:00:00Z"
+    }
+  }
+]

@@ -1,0 +1,7922 @@
+[
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 1,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 1,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:19.927Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 2,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 2,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:19.938Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 3,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 3,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:19.944Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 4,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 4,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:19.953Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 5,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 5,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2380.00",
+    "derniere_synchronisation": "2026-10-07T13:07:19.960Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 6,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 6,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2310.00",
+    "derniere_synchronisation": "2026-10-07T13:07:19.973Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 7,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 7,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "6820.00",
+    "derniere_synchronisation": "2026-10-07T13:07:19.979Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 8,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 8,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:19.987Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 9,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 9,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2280.00",
+    "derniere_synchronisation": "2026-10-07T13:07:19.993Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 10,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 10,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.001Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 11,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 11,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.007Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 12,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 12,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.016Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 13,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 13,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.038Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 14,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 14,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.044Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 15,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 15,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.051Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 16,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 16,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.057Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 17,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 17,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.063Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 18,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 18,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.070Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 19,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 19,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.077Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 20,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 20,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.083Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 21,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 21,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.089Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 22,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 2,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.113Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 23,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 3,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.121Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 24,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 4,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.127Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 25,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 5,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.134Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 26,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 6,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2310.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.142Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 27,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 7,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "6180.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.150Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 28,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 8,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.159Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 29,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 9,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2280.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.168Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 30,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 10,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.175Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 31,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 11,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.183Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 32,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 12,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.190Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 33,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 13,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.197Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 34,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 14,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.206Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 35,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 15,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.212Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 36,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 16,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.220Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 37,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 17,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.227Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 38,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 18,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.234Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 39,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 19,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.241Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 40,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 20,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.250Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 41,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 21,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.256Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 42,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 2,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.278Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 43,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 3,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.286Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 44,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 4,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2380.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.292Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 45,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 5,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.301Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 46,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 6,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2090.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.308Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 47,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 7,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "6500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.315Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 48,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 8,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.322Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 49,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 9,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2280.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.329Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 50,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 10,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.336Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 51,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 11,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.343Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 52,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 12,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.350Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 53,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 13,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.357Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 54,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 14,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.364Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 55,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 15,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.371Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 56,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 16,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.378Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 57,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 17,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.385Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 58,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 18,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.392Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 59,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 19,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.399Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 60,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 20,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.406Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 61,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 21,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.413Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 62,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 2,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.437Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 63,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 3,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.445Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 64,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 4,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.453Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 65,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 5,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.460Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 66,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 6,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2090.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.468Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 67,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 7,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "6180.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.475Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 68,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 8,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.482Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 69,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 9,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2280.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.489Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 70,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 10,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.496Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 71,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 11,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.505Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 72,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 12,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.512Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 73,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 13,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.519Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 74,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 14,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.527Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 75,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 15,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.534Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 76,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 16,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.542Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 77,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 17,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.550Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 78,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 18,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.558Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 79,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 19,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.566Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 80,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 20,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.573Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 81,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 21,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.581Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 82,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 2,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.605Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 83,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 3,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.614Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 84,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 4,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2380.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.621Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 85,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 5,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2380.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.628Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 86,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 6,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2090.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.635Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 87,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 7,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "6820.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.643Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 88,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 8,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.652Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 89,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 9,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2520.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.658Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 90,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 10,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.664Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 91,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 11,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.671Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 92,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 12,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.678Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 93,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 13,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.686Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 94,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 14,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.696Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 95,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 15,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.703Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 96,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 16,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.711Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 97,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 17,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.719Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 98,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 18,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.726Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 99,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 19,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.734Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 100,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 20,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.741Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 101,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 21,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.748Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 102,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 2,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.773Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 103,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 3,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.780Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 104,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 4,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.787Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 105,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 5,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.793Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 106,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 6,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2090.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.801Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 107,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 7,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "6820.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.810Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 108,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 8,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.819Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 109,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 9,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2400.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.830Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 110,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 10,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.837Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 111,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 11,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.844Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 112,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 12,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.852Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 113,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 13,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.858Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 114,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 14,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.866Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 115,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 15,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.873Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 116,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 16,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.881Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 117,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 17,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.890Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 118,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 18,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.897Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 119,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 19,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.905Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 120,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 20,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.912Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 121,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 21,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.919Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 122,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 2,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.947Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 123,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 3,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.955Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 124,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 4,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.964Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 125,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 5,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.973Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 126,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 6,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2200.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.980Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 127,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 7,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "6820.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.989Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 128,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 8,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.995Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 129,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 9,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2520.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.002Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 130,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 10,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.009Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 131,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 11,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.017Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 132,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 12,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.026Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 133,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 13,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.034Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 134,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 14,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.041Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 135,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 15,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.050Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 136,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 16,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.058Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 137,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 17,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.067Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 138,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 18,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.073Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 139,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 19,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.080Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 140,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 20,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.087Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 141,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 21,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.093Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 142,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 22,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.263Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 143,
+  "fields": {
+    "pharmacie": 1,
+    "medicament": 22,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.097Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 144,
+  "fields": {
+    "pharmacie": 2,
+    "medicament": 1,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.106Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 145,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 1,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.270Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 146,
+  "fields": {
+    "pharmacie": 3,
+    "medicament": 22,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.421Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 147,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 1,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.429Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 148,
+  "fields": {
+    "pharmacie": 4,
+    "medicament": 22,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.589Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 149,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 1,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.597Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 150,
+  "fields": {
+    "pharmacie": 5,
+    "medicament": 22,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.755Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 151,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 1,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.763Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 152,
+  "fields": {
+    "pharmacie": 6,
+    "medicament": 22,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.926Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 153,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 1,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:20.937Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 154,
+  "fields": {
+    "pharmacie": 7,
+    "medicament": 22,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.100Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 155,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 1,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.108Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 156,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 2,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.115Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 157,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 3,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.123Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 158,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 4,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.130Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 159,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 5,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.139Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 160,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 6,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2200.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.146Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 161,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 7,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "6500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.154Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 162,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 8,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.161Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 163,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 9,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2520.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.168Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 164,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 10,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.175Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 165,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 11,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.182Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 166,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 12,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.190Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 167,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 13,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.197Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 168,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 14,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.205Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 169,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 15,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.212Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 170,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 16,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.221Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 171,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 17,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.230Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 172,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 18,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.238Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 173,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 19,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.245Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 174,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 20,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.253Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 175,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 21,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.260Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 176,
+  "fields": {
+    "pharmacie": 8,
+    "medicament": 22,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.271Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 177,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 1,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.278Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 178,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 2,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.286Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 179,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 3,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.294Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 180,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 4,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.301Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 181,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 5,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2380.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.309Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 182,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 6,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2200.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.317Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 183,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 7,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "6180.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.325Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 184,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 8,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.333Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 185,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 9,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2400.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.341Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 186,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 10,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.349Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 187,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 11,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.358Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 188,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 12,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.366Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 189,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 13,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.374Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 190,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 14,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.381Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 191,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 15,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.390Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 192,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 16,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.397Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 193,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 17,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.405Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 194,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 18,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.413Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 195,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 19,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.421Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 196,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 20,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.429Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 197,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 21,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.437Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 198,
+  "fields": {
+    "pharmacie": 9,
+    "medicament": 22,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.444Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 199,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 1,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.453Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 200,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 2,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.460Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 201,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 3,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.469Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 202,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 4,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.477Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 203,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 5,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.485Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 204,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 6,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2090.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.493Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 205,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 7,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "6820.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.500Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 206,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 8,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.508Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 207,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 9,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2400.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.516Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 208,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 10,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.524Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 209,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 11,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.531Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 210,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 12,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.539Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 211,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 13,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.546Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 212,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 14,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.554Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 213,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 15,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.561Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 214,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 16,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.570Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 215,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 17,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.578Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 216,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 18,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.585Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 217,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 19,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.592Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 218,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 20,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.600Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 219,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 21,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.609Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 220,
+  "fields": {
+    "pharmacie": 10,
+    "medicament": 22,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.617Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 221,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 1,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.624Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 222,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 2,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.632Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 223,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 3,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.640Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 224,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 4,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.647Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 225,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 5,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2380.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.655Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 226,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 6,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2090.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.663Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 227,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 7,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "6180.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.671Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 228,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 8,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.678Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 229,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 9,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2400.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.686Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 230,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 10,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.694Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 231,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 11,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.703Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 232,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 12,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.711Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 233,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 13,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.719Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 234,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 14,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.728Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 235,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 15,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.737Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 236,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 16,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.744Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 237,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 17,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.752Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 238,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 18,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.759Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 239,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 19,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.767Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 240,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 20,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.777Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 241,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 21,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.786Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 242,
+  "fields": {
+    "pharmacie": 11,
+    "medicament": 22,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.795Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 243,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 1,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.803Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 244,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 2,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.813Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 245,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 3,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.822Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 246,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 4,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.829Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 247,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 5,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.837Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 248,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 6,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2090.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.844Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 249,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 7,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "6180.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.852Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 250,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 8,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.859Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 251,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 9,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2520.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.869Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 252,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 10,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.876Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 253,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 11,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.884Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 254,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 12,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.892Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 255,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 13,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.900Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 256,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 14,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.908Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 257,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 15,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.917Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 258,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 16,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.923Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 259,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 17,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.931Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 260,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 18,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.938Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 261,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 19,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.945Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 262,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 20,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.953Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 263,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 21,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.960Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 264,
+  "fields": {
+    "pharmacie": 12,
+    "medicament": 22,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.969Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 265,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 1,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.976Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 266,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 2,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.985Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 267,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 3,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:21.993Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 268,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 4,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.001Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 269,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 5,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.008Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 270,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 6,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2310.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.016Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 271,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 7,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "6180.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.023Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 272,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 8,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.032Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 273,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 9,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2520.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.039Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 274,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 10,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.046Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 275,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 11,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.054Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 276,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 12,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.062Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 277,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 13,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.073Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 278,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 14,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.080Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 279,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 15,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.090Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 280,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 16,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.098Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 281,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 17,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.106Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 282,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 18,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.114Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 283,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 19,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.128Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 284,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 20,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.136Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 285,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 21,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.143Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 286,
+  "fields": {
+    "pharmacie": 13,
+    "medicament": 22,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.152Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 287,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 1,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.159Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 288,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 2,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.167Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 289,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 3,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.174Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 290,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 4,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.181Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 291,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 5,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.188Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 292,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 6,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2090.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.195Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 293,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 7,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "6500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.202Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 294,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 8,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.210Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 295,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 9,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2520.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.219Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 296,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 10,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.225Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 297,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 11,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.233Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 298,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 12,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.246Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 299,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 13,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.254Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 300,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 14,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.261Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 301,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 15,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.268Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 302,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 16,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.274Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 303,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 17,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.281Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 304,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 18,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.289Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 305,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 19,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.296Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 306,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 20,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.303Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 307,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 21,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.311Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 308,
+  "fields": {
+    "pharmacie": 14,
+    "medicament": 22,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.320Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 309,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 1,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.328Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 310,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 2,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.337Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 311,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 3,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.344Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 312,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 4,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2380.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.352Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 313,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 5,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.359Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 314,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 6,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2310.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.367Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 315,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 7,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "6500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.376Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 316,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 8,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.384Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 317,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 9,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2280.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.394Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 318,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 10,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.402Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 319,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 11,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.411Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 320,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 12,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.420Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 321,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 13,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.427Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 322,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 14,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.435Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 323,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 15,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.443Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 324,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 16,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.451Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 325,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 17,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.458Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 326,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 18,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.467Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 327,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 19,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.475Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 328,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 20,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.483Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 329,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 21,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.491Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 330,
+  "fields": {
+    "pharmacie": 15,
+    "medicament": 22,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.499Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 331,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 1,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.507Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 332,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 2,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.514Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 333,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 3,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.522Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 334,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 4,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.529Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 335,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 5,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2380.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.537Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 336,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 6,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2200.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.544Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 337,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 7,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "6180.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.552Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 338,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 8,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.560Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 339,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 9,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2520.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.568Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 340,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 10,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.576Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 341,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 11,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.584Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 342,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 12,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.591Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 343,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 13,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.601Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 344,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 14,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.608Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 345,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 15,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.618Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 346,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 16,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.625Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 347,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 17,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.634Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 348,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 18,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.643Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 349,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 19,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.652Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 350,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 20,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.660Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 351,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 21,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.669Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 352,
+  "fields": {
+    "pharmacie": 16,
+    "medicament": 22,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.678Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 353,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 1,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.685Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 354,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 2,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.692Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 355,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 3,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.701Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 356,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 4,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2380.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.709Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 357,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 5,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2380.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.719Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 358,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 6,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2090.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.726Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 359,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 7,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "6180.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.741Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 360,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 8,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.748Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 361,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 9,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2520.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.757Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 362,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 10,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.765Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 363,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 11,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.773Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 364,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 12,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.781Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 365,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 13,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.789Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 366,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 14,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.797Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 367,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 15,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.807Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 368,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 16,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.814Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 369,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 17,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.824Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 370,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 18,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.831Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 371,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 19,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.841Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 372,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 20,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.848Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 373,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 21,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.856Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 374,
+  "fields": {
+    "pharmacie": 17,
+    "medicament": 22,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.863Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 375,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 1,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.873Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 376,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 2,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.880Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 377,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 3,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.889Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 378,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 4,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.896Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 379,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 5,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.904Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 380,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 6,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2200.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.913Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 381,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 7,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "6180.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.921Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 382,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 8,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.928Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 383,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 9,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2400.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.936Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 384,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 10,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.944Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 385,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 11,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.952Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 386,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 12,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.959Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 387,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 13,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.968Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 388,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 14,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.975Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 389,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 15,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.984Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 390,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 16,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:22.993Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 391,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 17,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.002Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 392,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 18,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.010Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 393,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 19,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.018Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 394,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 20,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.025Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 395,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 21,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.033Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 396,
+  "fields": {
+    "pharmacie": 18,
+    "medicament": 22,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.041Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 397,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 1,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.048Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 398,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 2,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.056Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 399,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 3,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.063Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 400,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 4,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.071Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 401,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 5,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.078Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 402,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 6,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2200.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.086Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 403,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 7,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "6180.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.094Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 404,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 8,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.102Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 405,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 9,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2280.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.110Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 406,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 10,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.119Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 407,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 11,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.127Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 408,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 12,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.136Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 409,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 13,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.144Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 410,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 14,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.153Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 411,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 15,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.160Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 412,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 16,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.168Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 413,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 17,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.176Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 414,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 18,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.184Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 415,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 19,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.191Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 416,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 20,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.198Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 417,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 21,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.208Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 418,
+  "fields": {
+    "pharmacie": 19,
+    "medicament": 22,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.216Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 419,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 1,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.224Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 420,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 2,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.231Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 421,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 3,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.239Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 422,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 4,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2380.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.247Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 423,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 5,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.255Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 424,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 6,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2310.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.263Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 425,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 7,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "6180.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.273Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 426,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 8,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.289Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 427,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 9,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2400.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.297Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 428,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 10,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.306Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 429,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 11,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.313Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 430,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 12,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.321Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 431,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 13,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.329Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 432,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 14,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.338Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 433,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 15,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.346Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 434,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 16,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.353Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 435,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 17,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.361Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 436,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 18,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.370Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 437,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 19,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.377Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 438,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 20,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.384Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 439,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 21,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.392Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 440,
+  "fields": {
+    "pharmacie": 20,
+    "medicament": 22,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.401Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 441,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 1,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.409Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 442,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 2,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.418Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 443,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 3,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.426Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 444,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 4,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.434Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 445,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 5,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.442Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 446,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 6,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2090.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.451Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 447,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 7,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "6500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.459Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 448,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 8,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.468Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 449,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 9,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2280.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.476Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 450,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 10,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.485Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 451,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 11,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.493Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 452,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 12,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.502Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 453,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 13,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.509Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 454,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 14,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.518Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 455,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 15,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.525Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 456,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 16,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.534Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 457,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 17,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.542Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 458,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 18,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.550Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 459,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 19,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.558Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 460,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 20,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.567Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 461,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 21,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.861Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 462,
+  "fields": {
+    "pharmacie": 21,
+    "medicament": 22,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.869Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 463,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 1,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.876Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 464,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 2,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.883Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 465,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 3,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.891Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 466,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 4,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.899Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 467,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 5,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2380.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.909Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 468,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 6,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2310.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.917Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 469,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 7,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "6820.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.925Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 470,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 8,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.933Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 471,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 9,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2520.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.941Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 472,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 10,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.949Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 473,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 11,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.957Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 474,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 12,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.965Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 475,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 13,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.973Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 476,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 14,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.981Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 477,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 15,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.989Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 478,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 16,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:23.997Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 479,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 17,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.005Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 480,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 18,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.013Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 481,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 19,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.020Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 482,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 20,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.027Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 483,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 21,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.035Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 484,
+  "fields": {
+    "pharmacie": 22,
+    "medicament": 22,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.043Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 485,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 1,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.050Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 486,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 2,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.058Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 487,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 3,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.065Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 488,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 4,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.073Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 489,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 5,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.080Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 490,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 6,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2200.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.088Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 491,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 7,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "6180.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.094Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 492,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 8,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.102Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 493,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 9,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2280.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.109Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 494,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 10,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.116Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 495,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 11,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.123Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 496,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 12,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.130Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 497,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 13,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.138Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 498,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 14,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.145Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 499,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 15,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.153Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 500,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 16,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.160Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 501,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 17,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.167Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 502,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 18,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.174Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 503,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 19,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.181Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 504,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 20,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.188Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 505,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 21,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.195Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 506,
+  "fields": {
+    "pharmacie": 23,
+    "medicament": 22,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.202Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 507,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 1,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.209Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 508,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 2,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.216Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 509,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 3,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.223Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 510,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 4,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.230Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 511,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 5,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2380.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.238Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 512,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 6,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2310.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.245Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 513,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 7,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "6180.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.252Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 514,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 8,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.258Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 515,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 9,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2520.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.265Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 516,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 10,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.271Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 517,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 11,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.278Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 518,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 12,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.287Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 519,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 13,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.294Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 520,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 14,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.302Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 521,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 15,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.309Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 522,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 16,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.316Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 523,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 17,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.323Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 524,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 18,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.330Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 525,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 19,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.338Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 526,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 20,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.344Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 527,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 21,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.351Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 528,
+  "fields": {
+    "pharmacie": 24,
+    "medicament": 22,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.358Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 529,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 1,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.365Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 530,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 2,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.373Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 531,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 3,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.380Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 532,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 4,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2380.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.387Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 533,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 5,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.394Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 534,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 6,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2310.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.402Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 535,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 7,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "6180.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.408Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 536,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 8,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.415Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 537,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 9,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "2520.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.422Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 538,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 10,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.429Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 539,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 11,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.435Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 540,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 12,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.442Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 541,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 13,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.449Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 542,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 14,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.456Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 543,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 15,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.462Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 544,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 16,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.470Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 545,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 17,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.476Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 546,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 18,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.482Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 547,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 19,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.489Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 548,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 20,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.495Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 549,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 21,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.502Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 550,
+  "fields": {
+    "pharmacie": 25,
+    "medicament": 22,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.509Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 551,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 1,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.515Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 552,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 2,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.523Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 553,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 3,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.529Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 554,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 4,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.537Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 555,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 5,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2380.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.543Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 556,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 6,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2200.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.552Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 557,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 7,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "6500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.559Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 558,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 8,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.566Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 559,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 9,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2520.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.573Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 560,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 10,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.580Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 561,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 11,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.588Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 562,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 12,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.594Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 563,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 13,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.601Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 564,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 14,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.607Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 565,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 15,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.614Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 566,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 16,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.621Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 567,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 17,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.628Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 568,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 18,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.635Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 569,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 19,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.641Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 570,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 20,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.647Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 571,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 21,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.654Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 572,
+  "fields": {
+    "pharmacie": 26,
+    "medicament": 22,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.662Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 573,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 1,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.669Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 574,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 2,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.675Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 575,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 3,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.682Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 576,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 4,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2380.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.689Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 577,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 5,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2380.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.695Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 578,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 6,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2200.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.703Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 579,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 7,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "6180.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.709Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 580,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 8,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.716Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 581,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 9,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2520.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.722Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 582,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 10,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.729Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 583,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 11,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.736Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 584,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 12,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.742Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 585,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 13,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.749Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 586,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 14,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.756Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 587,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 15,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.762Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 588,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 16,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.771Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 589,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 17,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.778Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 590,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 18,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.788Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 591,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 19,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.796Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 592,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 20,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.805Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 593,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 21,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.811Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 594,
+  "fields": {
+    "pharmacie": 27,
+    "medicament": 22,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.818Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 595,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 1,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.826Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 596,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 2,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.836Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 597,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 3,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "840.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.842Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 598,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 4,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.848Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 599,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 5,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.856Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 600,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 6,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2200.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.864Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 601,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 7,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "6500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.873Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 602,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 8,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.880Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 603,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 9,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "2280.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.887Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 604,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 10,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.893Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 605,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 11,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.901Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 606,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 12,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.908Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 607,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 13,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.915Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 608,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 14,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.922Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 609,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 15,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.929Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 610,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 16,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.936Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 611,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 17,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.943Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 612,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 18,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.950Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 613,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 19,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.958Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 614,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 20,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.965Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 615,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 21,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.973Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 616,
+  "fields": {
+    "pharmacie": 28,
+    "medicament": 22,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.980Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 617,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 1,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.987Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 618,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 2,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:24.994Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 619,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 3,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.003Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 620,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 4,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.010Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 621,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 5,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.018Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 622,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 6,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2310.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.025Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 623,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 7,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "6500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.033Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 624,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 8,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.042Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 625,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 9,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2400.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.049Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 626,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 10,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.057Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 627,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 11,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.063Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 628,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 12,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.071Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 629,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 13,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.079Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 630,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 14,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.086Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 631,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 15,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.093Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 632,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 16,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.100Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 633,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 17,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.108Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 634,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 18,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.114Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 635,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 19,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.122Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 636,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 20,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.129Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 637,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 21,
+    "quantite": 0,
+    "est_disponible": false,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.140Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 638,
+  "fields": {
+    "pharmacie": 29,
+    "medicament": 22,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.148Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 639,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 1,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "800.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.156Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 640,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 2,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.163Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 641,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 3,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "760.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.170Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 642,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 4,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.176Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 643,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 5,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "2620.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.184Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 644,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 6,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "2200.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.190Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 645,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 7,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "6500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.198Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 646,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 8,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.206Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 647,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 9,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "2520.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.214Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 648,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 10,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.222Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 649,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 11,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.229Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 650,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 12,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.237Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 651,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 13,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.244Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 652,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 14,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.251Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 653,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 15,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.258Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 654,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 16,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.265Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 655,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 17,
+    "quantite": 8,
+    "est_disponible": true,
+    "prix": "1420.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.272Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 656,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 18,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.279Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 657,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 19,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.287Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 658,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 20,
+    "quantite": 50,
+    "est_disponible": true,
+    "prix": "1500.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.295Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 659,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 21,
+    "quantite": 30,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.302Z"
+  }
+},
+{
+  "model": "stocks.stockpharmacie",
+  "pk": 660,
+  "fields": {
+    "pharmacie": 30,
+    "medicament": 22,
+    "quantite": 15,
+    "est_disponible": true,
+    "prix": "1580.00",
+    "derniere_synchronisation": "2026-10-07T13:07:25.309Z"
+  }
+}
+]

@@ -1,0 +1,38 @@
+# Temporary and OS files
+~$*
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.venv/
+.venv*/
+venv/
+env/
+ENV/
+ENV*/
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.sqlite3
+*.sqlite3*
+*.db
+.env
+*.log
+
+# Flutter / Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDEs
+.idea/
+.vscode/
+*.iml
